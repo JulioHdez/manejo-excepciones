@@ -1,0 +1,7 @@
+C:\Users\julal\Documents\GitHub\manejo-excepciones\manejo-excepciones\obj\Debug\manejo-excepciones.csproj.AssemblyReference.cache
+C:\Users\julal\Documents\GitHub\manejo-excepciones\manejo-excepciones\obj\Debug\manejo-excepciones.csproj.CoreCompileInputs.cache
+C:\Users\julal\Documents\GitHub\manejo-excepciones\manejo-excepciones\bin\Debug\manejo-excepciones.exe.config
+C:\Users\julal\Documents\GitHub\manejo-excepciones\manejo-excepciones\bin\Debug\manejo-excepciones.exe
+C:\Users\julal\Documents\GitHub\manejo-excepciones\manejo-excepciones\bin\Debug\manejo-excepciones.pdb
+C:\Users\julal\Documents\GitHub\manejo-excepciones\manejo-excepciones\obj\Debug\manejo-excepciones.exe
+C:\Users\julal\Documents\GitHub\manejo-excepciones\manejo-excepciones\obj\Debug\manejo-excepciones.pdb
